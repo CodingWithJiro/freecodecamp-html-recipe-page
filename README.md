@@ -13,6 +13,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/239e71a1-3668-4b35-bc05-e9a17d6f6000/deploy-status)](https://recipe-page-fcc-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%201-blue)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-html-recipe-page&left_text=repo%20views)
 
 ## ℹ️ A Simple Turon Recipe Page
 
