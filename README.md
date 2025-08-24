@@ -25,7 +25,7 @@ This website displays a simple _turon_ recipe page made entirely of HTML5. Creat
 
 ## 🔍 Overview
 
-This page demonstrates a semantic and accessible recipe webpage using only HTML5. It includes a Base64-embedded image, source citation, and mobile responsiveness — all without CSS or JavaScript.
+This page demonstrates a semantic and accessible recipe webpage using only HTML5. It includes a Base64-embedded image, source citation, and mobile responsiveness.
 
 ---
 
@@ -35,7 +35,7 @@ This page demonstrates a semantic and accessible recipe webpage using only HTML5
 - Mobile-friendly layout via responsive `<meta>` tag
 - Embedded Base64 image (no external image hosting needed)
 - External citation with proper `<cite>` and `<a>` usage
-- No JavaScript or CSS — HTML5 only
+- No JavaScript or CSS used
 
 ---
 
